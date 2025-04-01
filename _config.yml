@@ -1,0 +1,4 @@
+# Jekyll configuration file
+markdown: kramdown
+sass:
+  sass_dir: assets/css
