@@ -1,0 +1,30 @@
+.links {
+    color: #0000EE; /* Blue link color */
+    text-decoration: none; /* Remove underline */
+    font-size: 16px; /* Font size for links */
+}
+.links:hover {
+    text-decoration: underline; /* Underline on hover */
+    color: #0000CC; /* Darker blue on hover */
+}
+.links:visited {
+    color: #551A8B; /* Purple for visited links */
+}
+.links:active {
+    color: #FF0000; /* Red for active links */
+}
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.button:hover {
+  background-color: #45a049;
+}
